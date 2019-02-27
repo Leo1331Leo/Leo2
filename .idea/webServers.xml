@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf062459-b487-49eb-8776-3f0162d62e2c" name="BLgit" url="http://BLgit">
+        <fileTransfer port="0" mountedRoot="C:\OpenServer\domains\BLgit" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
