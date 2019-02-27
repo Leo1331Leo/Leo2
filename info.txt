@@ -48,4 +48,4 @@ git branch name-"" даем название ветки
 git branch name- даем название ветки ИЛИ git checkout -b name- создаем ветку и переходим на нее
 /////
 git branch -v просмотр веток
-git checkout- выбираем ветку
+git checkout name- выбираем ветку
